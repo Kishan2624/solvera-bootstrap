@@ -241,7 +241,7 @@ button,a{
         height: auto;
     }
     .bg-main{
-        height: 120vh;
+        height: 800px
     }
 }
 
@@ -251,7 +251,7 @@ button,a{
     }
 
     .bg-main{
-        height: 120vh;
+        height: 750px;
     }
     
     .hero-video{
