@@ -85,15 +85,8 @@ button,a{
 }
 
 /* hero section start  */
-.hero-section .container{
-    display: grid;
-    place-content: center;
-    height: inherit;
-
-}
-
 .bg-main {
-    height: 90vh;
+    height: 600px;
     position: relative;
 }
 
@@ -241,7 +234,7 @@ button,a{
         height: auto;
     }
     .bg-main{
-        height: 800px
+        height: 650px
     }
 }
 
@@ -251,7 +244,7 @@ button,a{
     }
 
     .bg-main{
-        height: 750px;
+        height: 600px;
     }
     
     .hero-video{
