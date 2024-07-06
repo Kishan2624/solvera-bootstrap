@@ -86,7 +86,7 @@ button,a{
 
 /* hero section start  */
 .bg-main {
-    height: 600px;
+    height: 700px;
     position: relative;
 }
 
@@ -234,7 +234,7 @@ button,a{
         height: auto;
     }
     .bg-main{
-        height: 650px
+        height: 700px
     }
 }
 
@@ -244,7 +244,7 @@ button,a{
     }
 
     .bg-main{
-        height: 600px;
+        height: 800px;
     }
     
     .hero-video{
